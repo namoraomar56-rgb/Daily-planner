@@ -5,7 +5,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.yourname.planner</groupId>
+    <groupId>io.github.namoraomar56</groupId>
     <artifactId>daily-planner</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Daily Planner</name>
@@ -19,7 +19,7 @@
         <jackson.version>2.17.2</jackson.version>
         <junit.version>5.10.2</junit.version>
 
-        <app.mainClass>com.yourname.planner.App</app.mainClass>
+        <app.mainClass>io.github.namoraomar56.planner.App</app.mainClass>
     </properties>
 
     <dependencies>
